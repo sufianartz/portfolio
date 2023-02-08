@@ -18,8 +18,8 @@ gap: 12%;
     transition: var(--transition);
 }
 .contact__option:hover  {
-   background: transparent;
-   border-color: var(--color-primary-variant);
+   background: var(--color-primary-variant);
+   border-color: var(--color-white);
 }
 .contact__option-icon{
     font-size: 1.5rem;
@@ -45,6 +45,9 @@ border:2px solid var(--color-primary-variant);
 resize: none;
 color: var(--color-white);
 
+}
+.h5__white{
+    color: white;
 }
 
 /* for medium */

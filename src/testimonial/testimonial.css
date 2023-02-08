@@ -29,6 +29,9 @@
 .swiper-pagination-clickable .swiper-pagination-bullet{
     background: var(--color-white)
 }
+.h5__white{
+    color: white;
+}
 
 /* for medium */
 @media screen and (max-width: 1024px) {

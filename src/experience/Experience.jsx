@@ -5,12 +5,12 @@ import { BsPatchCheckFill } from "react-icons/bs";
 const experience = () => {
   return (
     <section id="experience">
-      <h5>The Skills I Have</h5>
+      <h5 className="h5__white">The Skills I Have</h5>
       <h2>My Experience</h2>
 
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Frontend Development</h3>
+          <h3>Languages</h3>
           <div className="experience__content">
             <article className="experience__details">
             <BsPatchCheckFill className="experience__details-icon" />
@@ -36,14 +36,14 @@ const experience = () => {
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon"  />
               <div>
-                <h4>BOOTSTRAP</h4>
+                <h4>C++</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>REACT</h4>
+                <h4>JAVA</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
@@ -51,40 +51,40 @@ const experience = () => {
         </div>
 
         <div className="experience__backend">
-          <h3>Backend Development</h3>
+          <h3>Tools/Technologies</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Node JS</h4>
+                <h4>REACT JS</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>MongoDB</h4>
+                <h4>BOOTSTRAP</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>MYSQL</h4>
+                <h4>TAILWIND</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>Express</h4>
+                <h4>REDUX</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__details-icon" />
               <div>
-                <h4>PHP</h4>
+                <h4>MONGO DB</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>

@@ -8,7 +8,7 @@ import { VscFolderLibrary } from "react-icons/vsc";
 const About = () => {
   return (
     <section id="about">
-      <h5>Get to Know</h5>
+      <h5 className="h5__white">Get to Know</h5>
       <h2>About Me</h2>
 
       <div className="container about__container">
@@ -23,13 +23,13 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon" />
               <h5>Experience</h5>
-              <small>Fresh Graduate </small>
+              <small>Self learning </small>
             </article>
 
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clinets</h5>
-              <small>000 Clients</small>
+              <small>02 Clients</small>
             </article>
 
             <article className="about__card">
@@ -38,14 +38,8 @@ const About = () => {
               <small>05+ Completed</small>
             </article>
           </div>
-          <p>
-            Hi, I am a fresh graduate in Software engineering with development
-            experience in designing User Interface (UI) applications and
-            professional web applications using Node JS, React JS and Bootstrap.
-            Experience in developing a web application using React JS, HTML5,
-            and CSS3. Experience in using JavaScript Model View Controller (MVC)
-            frameworks such as React JS with a good understanding of competing
-            frameworks.
+          <p className="about__desc">
+          As a software engineer and front-end developer, I am driven by a passion for technology and a commitment to excellence. With a keen interest in learning new technologies and a strong work ethic, I am always looking for new challenges and opportunities to grow my skills. With my technical expertise, problem-solving skills, and attention to detail, I am confident that I can make a positive impact on any project or team I work with.
           </p>
           <a href="#contact" className="btn btn-primary">
             Lets Talk
