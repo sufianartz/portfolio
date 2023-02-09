@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/sufianartz/portfolio.git/static/css/main.e337d3be.css",
-    "main.js": "/sufianartz/portfolio.git/static/js/main.89eeb674.js",
-    "static/media/professional.png": "/sufianartz/portfolio.git/static/media/professional.3dde6107e188a059fcd9.png",
-    "static/media/me-abouttt.jpg": "/sufianartz/portfolio.git/static/media/me-abouttt.fd5f13d505308d162a27.jpg",
-    "static/media/portfolio4.jpg": "/sufianartz/portfolio.git/static/media/portfolio4.b4bc95f434e3f82d2119.jpg",
-    "static/media/portfolio5.jpg": "/sufianartz/portfolio.git/static/media/portfolio5.90ffc639333353f2760b.jpg",
-    "static/media/portfolio6.jpg": "/sufianartz/portfolio.git/static/media/portfolio6.59062ab685bed1e13c61.jpg",
-    "static/media/portfolio2.png": "/sufianartz/portfolio.git/static/media/portfolio2.8efa1ca776115e686b51.png",
-    "static/media/portfolio1.png": "/sufianartz/portfolio.git/static/media/portfolio1.b672ef1a6978ebee0039.png",
-    "static/media/Sufian-CV.pdf": "/sufianartz/portfolio.git/static/media/Sufian-CV.1a104084377b6230dbc2.pdf",
-    "static/media/portfolio3.png": "/sufianartz/portfolio.git/static/media/portfolio3.a4e9b917b73d0afa303c.png",
-    "index.html": "/sufianartz/portfolio.git/index.html",
-    "main.e337d3be.css.map": "/sufianartz/portfolio.git/static/css/main.e337d3be.css.map",
-    "main.89eeb674.js.map": "/sufianartz/portfolio.git/static/js/main.89eeb674.js.map"
+    "main.css": "/sufianartz/portfolio/static/css/main.e337d3be.css",
+    "main.js": "/sufianartz/portfolio/static/js/main.2ea01c51.js",
+    "static/media/professional.png": "/sufianartz/portfolio/static/media/professional.3dde6107e188a059fcd9.png",
+    "static/media/me-abouttt.jpg": "/sufianartz/portfolio/static/media/me-abouttt.fd5f13d505308d162a27.jpg",
+    "static/media/portfolio4.jpg": "/sufianartz/portfolio/static/media/portfolio4.b4bc95f434e3f82d2119.jpg",
+    "static/media/portfolio5.jpg": "/sufianartz/portfolio/static/media/portfolio5.90ffc639333353f2760b.jpg",
+    "static/media/portfolio6.jpg": "/sufianartz/portfolio/static/media/portfolio6.59062ab685bed1e13c61.jpg",
+    "static/media/portfolio2.png": "/sufianartz/portfolio/static/media/portfolio2.8efa1ca776115e686b51.png",
+    "static/media/portfolio1.png": "/sufianartz/portfolio/static/media/portfolio1.b672ef1a6978ebee0039.png",
+    "static/media/Sufian-CV.pdf": "/sufianartz/portfolio/static/media/Sufian-CV.1a104084377b6230dbc2.pdf",
+    "static/media/portfolio3.png": "/sufianartz/portfolio/static/media/portfolio3.a4e9b917b73d0afa303c.png",
+    "index.html": "/sufianartz/portfolio/index.html",
+    "main.e337d3be.css.map": "/sufianartz/portfolio/static/css/main.e337d3be.css.map",
+    "main.2ea01c51.js.map": "/sufianartz/portfolio/static/js/main.2ea01c51.js.map"
   },
   "entrypoints": [
     "static/css/main.e337d3be.css",
-    "static/js/main.89eeb674.js"
+    "static/js/main.2ea01c51.js"
   ]
 }
