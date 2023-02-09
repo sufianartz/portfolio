@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e337d3be.css",
-    "main.js": "/portfolio/static/js/main.8ceadd72.js",
+    "main.js": "/portfolio/static/js/main.b2ff9f6b.js",
     "static/media/professional.png": "/portfolio/static/media/professional.3dde6107e188a059fcd9.png",
     "static/media/me-abouttt.jpg": "/portfolio/static/media/me-abouttt.fd5f13d505308d162a27.jpg",
     "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.b4bc95f434e3f82d2119.jpg",
@@ -9,14 +9,14 @@
     "static/media/portfolio6.jpg": "/portfolio/static/media/portfolio6.59062ab685bed1e13c61.jpg",
     "static/media/portfolio2.png": "/portfolio/static/media/portfolio2.8efa1ca776115e686b51.png",
     "static/media/portfolio1.png": "/portfolio/static/media/portfolio1.b672ef1a6978ebee0039.png",
-    "static/media/Sufian-CV.pdf": "/portfolio/static/media/Sufian-CV.1a104084377b6230dbc2.pdf",
+    "static/media/Sufian-CV.pdf": "/portfolio/static/media/Sufian-CV.6c860402abca21a984c9.pdf",
     "static/media/portfolio3.png": "/portfolio/static/media/portfolio3.a4e9b917b73d0afa303c.png",
     "index.html": "/portfolio/index.html",
     "main.e337d3be.css.map": "/portfolio/static/css/main.e337d3be.css.map",
-    "main.8ceadd72.js.map": "/portfolio/static/js/main.8ceadd72.js.map"
+    "main.b2ff9f6b.js.map": "/portfolio/static/js/main.b2ff9f6b.js.map"
   },
   "entrypoints": [
     "static/css/main.e337d3be.css",
-    "static/js/main.8ceadd72.js"
+    "static/js/main.b2ff9f6b.js"
   ]
 }
